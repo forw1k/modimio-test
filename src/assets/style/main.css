@@ -1,0 +1,21 @@
+@import '@/assets/style/variables.css';
+@import '@/assets/fonts/fonts.css';
+
+html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+}
+button {
+  font-family: 'Roboto', sans-serif;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+.container {
+  max-width: 144rem;
+  margin: auto;
+}
